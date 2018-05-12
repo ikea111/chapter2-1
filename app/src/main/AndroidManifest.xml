@@ -16,6 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activity_linear" />
+        <activity android:name=".activity_relative" />
+        <activity android:name=".activity_frame" />
+        <activity android:name=".activity_table" />
+        <activity android:name=".activity_grib"></activity>
     </application>
 
 </manifest>
